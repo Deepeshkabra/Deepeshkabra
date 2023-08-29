@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepesh Kabra</h1>
 <h3 align="center">A passionate A.I Enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src=https://boingboing.net/2018/12/20/bend-your-spacetime-continuum.html>
+<img align="right" alt="coding" width="400" src="https://boingboing.net/2018/12/20/bend-your-spacetime-continuum.html">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshkabra&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshkabra" /> </p>
 
