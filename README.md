@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepesh Kabra</h1>
 <h3 align="center">A passionate A.I Enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0178.gif">
+<img align="right" alt="coding" width="400" src="https://scitechdaily.com/images/Computer-Code-Speed-Algorithm-Concept.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshkabra&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshkabra" /> </p>
 
