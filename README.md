@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshkabra&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshkabra" /> </p>
 
-- 🌱 I’m currently learning Golang,FastAPI, How to build AI-Agents Workflows
+- 🌱 I’m currently learning Golang,FastAPI, Agentic AI.
 
 - 📫 How to reach me **deepeshkabrawork@gmail.com**
 
